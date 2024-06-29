@@ -2,7 +2,7 @@
 $db_config = [
     'servername' => 'localhost',
     'username' => 'todo_user',
-    'password' => 'EZou010109()',
+    'password' => 'your_password',
     'dbname' => 'todo_list'
 ];
 ?>
